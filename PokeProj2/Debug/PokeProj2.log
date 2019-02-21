@@ -1,0 +1,4 @@
+﻿  MyPokemon.cpp
+c:\users\matt\documents\visual studio 2015\projects\pokeproj2\mypokemon.cpp(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PokeProj2.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\PokeProj2\Debug\PokeProj2.exe
+  PokeProj2.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\PokeProj2\Debug\PokeProj2.pdb (Full PDB)
