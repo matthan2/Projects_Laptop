@@ -1,0 +1,7 @@
+﻿  proj2.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Pokemon\proj2.cpp': No such file or directory
+  Pokemon.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Pokemon\Pokemon.cpp': No such file or directory
+  MyPokemon.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Pokemon\MyPokemon.cpp': No such file or directory
+  Generating Code...
