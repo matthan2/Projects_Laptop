@@ -1,0 +1,32 @@
+﻿  ManageShips.cpp
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(177): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(224): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(378): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(381): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\proj5\manageships.cpp(389): warning C4018: '<': signed/unsigned mismatch
+  proj5.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\proj5\Debug\proj5.exe
+  proj5.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\proj5\Debug\proj5.pdb (Full PDB)
