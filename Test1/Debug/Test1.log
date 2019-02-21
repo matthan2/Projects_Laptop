@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\matt\documents\visual studio 2015\projects\test1\source.cpp(47): error C2512: 'Candy': no appropriate default constructor available
+  c:\users\matt\documents\visual studio 2015\projects\test1\source.cpp(10): note: see declaration of 'Candy'
+c:\users\matt\documents\visual studio 2015\projects\test1\source.cpp(60): error C2512: 'Candy': no appropriate default constructor available
+  c:\users\matt\documents\visual studio 2015\projects\test1\source.cpp(10): note: see declaration of 'Candy'
+c:\users\matt\documents\visual studio 2015\projects\test1\source.cpp(74): error C2512: 'Candy': no appropriate default constructor available
+  c:\users\matt\documents\visual studio 2015\projects\test1\source.cpp(10): note: see declaration of 'Candy'

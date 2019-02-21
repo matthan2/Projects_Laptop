@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(48): warning C4101: 'eight': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(37): warning C4101: 'status': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(38): warning C4101: 'str1': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(40): warning C4101: 'wait': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(45): warning C4101: 'target_code': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(39): warning C4101: 'str2': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\simplestuff\main.cpp(41): warning C4101: 'retval': unreferenced local variable
+  Simplestuff.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\Simplestuff\Debug\Simplestuff.exe
+  Simplestuff.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\Simplestuff\Debug\Simplestuff.pdb (Full PDB)
