@@ -1,0 +1,6 @@
+﻿  frac_heap.c
+c:\users\matt\documents\visual studio 2015\projects\cmsc313proj6\frac_heap.c(46): warning C4047: 'function': 'std::size_t' differs in levels of indirection from 'fraction_block *'
+c:\users\matt\documents\visual studio 2015\projects\cmsc313proj6\frac_heap.c(46): warning C4024: 'malloc': different types for formal and actual parameter 1
+c:\users\matt\documents\visual studio 2015\projects\cmsc313proj6\frac_heap.c(89): warning C4133: '=': incompatible types - from 'fraction *' to 'fraction_block *'
+  CMSC313Proj6.vcxproj -> C:\Users\matt\Documents\Visual Studio 2015\Projects\CMSC313Proj6\Debug\CMSC313Proj6.exe
+  CMSC313Proj6.vcxproj -> C:\Users\matt\Documents\Visual Studio 2015\Projects\CMSC313Proj6\Debug\CMSC313Proj6.pdb (Full PDB)
