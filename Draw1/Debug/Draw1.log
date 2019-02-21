@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\matt\documents\visual studio 2015\projects\draw1\main.cpp(9): error C2664: 'int ReleaseDC(HWND,HDC)': cannot convert argument 1 from 'int' to 'HWND'
+  c:\users\matt\documents\visual studio 2015\projects\draw1\main.cpp(9): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast

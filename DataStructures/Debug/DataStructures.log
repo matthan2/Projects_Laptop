@@ -1,0 +1,6 @@
+﻿  StringManip.cpp
+c:\users\matt\documents\visual studio 2015\projects\datastructures\stringmanip.cpp(16): warning C4018: '>': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\datastructures\stringmanip.cpp(27): warning C4018: '>': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\datastructures\stringmanip.cpp(38): warning C4018: '>': signed/unsigned mismatch
+  DataStructures.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\DataStructures\Debug\DataStructures.exe
+  DataStructures.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\DataStructures\Debug\DataStructures.pdb (Full PDB)
