@@ -1,0 +1,19 @@
+﻿  Driver.cpp
+c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\minmaxheap.cpp(169): warning C4390: ';': empty controlled statement found; is this the intent?
+  c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\minmaxheap.cpp(81): note: while compiling class template member function 'void MinMaxHeap<int>::insert(const T &)'
+          with
+          [
+              T=int
+          ]
+  c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\driver.cpp(135): note: see reference to function template instantiation 'void MinMaxHeap<int>::insert(const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\driver.cpp(133): note: see reference to class template instantiation 'MinMaxHeap<int>' being compiled
+c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\minmaxheap.cpp(634): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\minmaxheap.cpp(625): note: while compiling class template member function 'void MinMaxHeap<int>::dump(void)'
+  c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\driver.cpp(137): note: see reference to function template instantiation 'void MinMaxHeap<int>::dump(void)' being compiled
+c:\users\matt\documents\visual studio 2015\projects\fake min-max heaps\minmaxheap.cpp(646): warning C4018: '<=': signed/unsigned mismatch
+  Fake Min-Max Heaps.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\Fake Min-Max Heaps\Debug\Fake Min-Max Heaps.exe
+  Fake Min-Max Heaps.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\Fake Min-Max Heaps\Debug\Fake Min-Max Heaps.pdb (Full PDB)
