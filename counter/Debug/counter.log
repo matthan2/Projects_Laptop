@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\matt\documents\visual studio 2015\projects\counter\main.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\counter\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\counter\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2015\projects\counter\main.cpp(32): warning C4018: '>=': signed/unsigned mismatch
+  counter.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\counter\Debug\counter.exe
+  counter.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\counter\Debug\counter.pdb (Full PDB)
