@@ -1,0 +1,6 @@
+﻿  test.c
+c:\users\matt\documents\visual studio 2015\projects\testproject1\test.c(12): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\matt\documents\visual studio 2015\projects\testproject1\test.c(12): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\matt\documents\visual studio 2015\projects\testproject1\test.c(7): warning C4047: 'initializing': 'FILE *' differs in levels of indirection from 'errno_t'
+  testproject1.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\testproject1\Debug\testproject1.exe
+  testproject1.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\testproject1\Debug\testproject1.pdb (Full PDB)
