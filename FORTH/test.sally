@@ -1,0 +1,23 @@
+0 j SET
+
+DO
+  j @ 9 == 
+	IFTHEN
+	 ."We MADE IT" . CR
+	 j @ 1 + j !
+	 j @ . CR
+	ELSE
+	j @ 5 == 
+        	IFTHEN
+        	."Halfway there" . CR
+		j @ . CR
+		j @ 1 + j !
+
+      		ELSE
+        	."Are we there yet? " . CR
+		j @ 1 + j !
+      		ENDIF 
+	ENDIF
+j @ 10 >= UNTIL
+
+//end

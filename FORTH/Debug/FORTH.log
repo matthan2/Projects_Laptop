@@ -1,0 +1,12 @@
+﻿  Sally.cpp
+c:\users\matt\documents\visual studio 2015\projects\forth\sally.cpp(291): warning C4101: 'e': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\forth\sally.cpp(302): warning C4101: 'e': unreferenced local variable
+c:\users\matt\documents\visual studio 2015\projects\forth\sally.cpp(827): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'TokenKind' can equal the given constant
+c:\users\matt\documents\visual studio 2015\projects\forth\sally.cpp(897): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'TokenKind' can equal the given constant
+c:\users\matt\documents\visual studio 2015\projects\forth\sally.cpp(967): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'TokenKind' can equal the given constant
+  Generating Code...
+  Compiling...
+  driver.cpp
+  Generating Code...
+  FORTH.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\FORTH\Debug\FORTH.exe
+  FORTH.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\FORTH\Debug\FORTH.pdb (Full PDB)
