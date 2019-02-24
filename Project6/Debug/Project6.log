@@ -1,6 +1,0 @@
-﻿  main.cpp
-c:\users\matt\documents\visual studio 2015\projects\project6\main.cpp(28): warning C4476: 'printf' : unknown type field character ',' in format specifier
-c:\users\matt\documents\visual studio 2015\projects\project6\main.cpp(28): warning C4474: 'printf' : too many arguments passed for format string
-  c:\users\matt\documents\visual studio 2015\projects\project6\main.cpp(28): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-  Project6.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\Project6\Debug\Project6.exe
-  Project6.vcxproj -> c:\users\matt\documents\visual studio 2015\Projects\Project6\Debug\Project6.pdb (Partial PDB)

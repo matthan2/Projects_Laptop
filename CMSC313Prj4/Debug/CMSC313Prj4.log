@@ -1,6 +1,0 @@
-﻿  sort_books.c
-c:\users\matt\documents\visual studio 2015\projects\cmsc313prj4\sort_books.c(205): warning C4101: 'subject': unreferenced local variable
-c:\users\matt\documents\visual studio 2015\projects\cmsc313prj4\sort_books.c(203): warning C4101: 'title': unreferenced local variable
-c:\users\matt\documents\visual studio 2015\projects\cmsc313prj4\sort_books.c(204): warning C4101: 'author': unreferenced local variable
-  CMSC313Prj4.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\CMSC313Prj4\Debug\CMSC313Prj4.exe
-  CMSC313Prj4.vcxproj -> C:\Users\matt\documents\visual studio 2015\Projects\CMSC313Prj4\Debug\CMSC313Prj4.pdb (Full PDB)

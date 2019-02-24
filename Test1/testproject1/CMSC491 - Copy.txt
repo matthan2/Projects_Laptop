@@ -1,0 +1,10 @@
+New Tools to Play With
+-----------------------
+IDA Pro
+x64dbg
+Ollydbg
+FlareVM
+Windbg
+CFF Explorer
+Hex Workshop
+ILSpy
